@@ -1,1 +1,2 @@
-# Landing_page
+This repository contains the source code for a simple landing page for Myntra, created using basic HTML and CSS. The goal of this project is to demonstrate the layout and styling of a typical e-commerce landing page.
+The Myntra Landing Page project is a static web page designed to resemble the landing page of the popular online shopping platform, Myntra. It showcases a modern and responsive design, providing a good example of basic web development skills using HTML and CSS.
